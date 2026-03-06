@@ -48,6 +48,13 @@
     "keycolor": "blue"
     },
     {
+      "type": "localip",
+      "key": "├─󰩟",
+      "keycolor": "blue",
+      "showIpv4": true,
+      "defaultRouteOnly": true,
+    },
+    {
     "type": "uptime",
     "key":"╰─",
     "keycolor": "blue"
@@ -89,5 +96,6 @@
     "paddingLeft": 10,
     "symbol":"circle"
     },
+
   ]
 }
