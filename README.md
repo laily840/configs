@@ -6,7 +6,8 @@
 
 
 
-<img width="840" height="484" alt="image" src="https://github.com/user-attachments/assets/1cfda237-1d99-4e8f-b01a-8808453b45d5" />
+<img width="828" height="492" alt="image" src="https://github.com/user-attachments/assets/7f88a860-e884-4064-9607-0627ce7be918" />
+
 
 
 2. My alaritty config:
