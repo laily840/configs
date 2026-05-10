@@ -49,14 +49,21 @@
     },
     {
       "type": "localip",
-      "key": "├─󰩟",
+      "key": "├─󰖩",
       "keycolor": "blue",
       "showIpv4": true,
       "defaultRouteOnly": true,
     },
+     {
+	    "key": "├─󰥔",
+    	"type": "disk",
+	    "keyColor": "blue",
+	    "folders": "/",
+	    "format": "{days} days"
+	},
     {
     "type": "uptime",
-    "key":"╰─",
+    "key":"╰─",
     "keycolor": "blue"
     },
     "break",
@@ -82,7 +89,7 @@
     },
     {
     "type": "disk",
-    "key":"├─",
+    "key":"├─",
     "keycolor": "blue"
     },
      {
