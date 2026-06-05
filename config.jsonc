@@ -13,89 +13,73 @@
 "modules": [
     {
     "type": "title",
-    "key":"  ",
-    "keycolor": "blue"
+    "key":"  "
     },
     "break",
     {
     "type": "os",
-    "key":"╭─",
-    "keycolor": "blue"
+    "key":"╭─"
     },
     {
     "type": "kernel",
-    "key":"├─",
-    "keycolor": "blue"
+    "key":"├─"
     },
     {
     "type": "packages",
-    "key":"├─󰏖",
-    "keycolor": "blue"
+    "key":"├─󰏖"
     },
     {
     "type": "de",
-    "key":"├─",
-    "keycolor": "blue"
+    "key":"├─"
     },
      {
     "type": "terminal",
-    "key":"├─",
-    "keycolor": "blue"
+    "key":"├─"
     },
     {
     "type": "shell",
-    "key":"├─",
-    "keycolor": "blue"
+    "key":"├─"
     },
     {
       "type": "localip",
       "key": "├─󰖩",
-      "keycolor": "blue",
       "showIpv4": true,
       "defaultRouteOnly": true,
     },
      {
-	    "key": "├─󰥔",
-    	"type": "disk",
-	    "keyColor": "blue",
-	    "folders": "/",
-	    "format": "{days} days"
+     "type": "disk",
+     "key": "├─󰥔",
+     "folders": "/",
+     "format": "{days} days"
 	},
     {
     "type": "uptime",
-    "key":"╰─",
-    "keycolor": "blue"
+    "key":"╰─"
     },
     "break",
     {
     "type": "host",
-    "key":"╭─󰌢",
-    "keycolor": "blue"
+    "key":"╭─󰌢"
     },
      {
     "type": "cpu",
-    "key":"├─",
-    "keycolor": "blue"
+    "key":"├─"
     },
      {
     "type": "gpu",
-    "key":"├─󰾲",
-    "keycolor": "blue"
+    "key":"├─󰾲"
     },
      {
     "type": "display",
-    "key":"├─󰍹",
-    "keycolor": "blue"
+    "key":"├─󰍹"
     },
     {
     "type": "disk",
-    "key":"├─",
-    "keycolor": "blue"
+    "key":"├─"
     },
      {
     "type": "memory",
-    "key":"╰─",
-    "keycolor": "blue"
+    "key":"╰─"
     },
     "break",
       {
